@@ -1,0 +1,88 @@
+\begin{thebibliography}{10}
+
+\bibitem{anaconda_inc_numba_2012}
+{Anaconda,~Inc.}
+\newblock Numba for {CUDA} {GPUs} documentation, 2012.
+
+\bibitem{beyeler_gpu-accelerated_2015}
+M.~Beyeler, N.~Oros, N.~Dutt, et~al.
+\newblock {\em Neural Networks}, 72:75--87, Dec. 2015.
+
+\bibitem{blelloch_prefix_1990}
+G.~E. Blelloch.
+\newblock Prefix {Sums} and {Their} {Applications}.
+\newblock Technical {Report} CMU-CS-90-190, Carnegie Mellon University, School
+  of Computer Science, 1990.
+
+\bibitem{bojarski_end_2016}
+M.~Bojarski, D.~Del~Testa, D.~Dworakowski, et~al.
+\newblock {\em arXiv:1604.07316 [cs]}, Apr. 2016.
+\newblock arXiv: 1604.07316.
+
+\bibitem{bojarski_explaining_2017}
+M.~Bojarski, P.~Yeres, A.~Choromanska, et~al.
+\newblock {\em arXiv:1704.07911 [cs]}, Apr. 2017.
+\newblock arXiv: 1704.07911.
+
+\bibitem{cope_spineml_2014}
+A.~Cope and P.~Richmond.
+\newblock {SpineML}, 2014.
+\newblock RRID: SCR\_015641.
+
+\bibitem{cope_spinecreator_2015}
+A.~J. Cope, P.~Richmond, and S.~S. James.
+\newblock {SpineCreator}, 2015.
+\newblock RRID: SCR\_015637.
+
+\bibitem{cope_spinecreator:_2016}
+A.~J. Cope, P.~Richmond, S.~S. James, et~al.
+\newblock {\em Neuroinformatics}, Sept. 2016.
+
+\bibitem{david_deepchess_2016}
+O.~E. David, N.~S. Netanyahu, and L.~Wolf.
+\newblock {DeepChess}: {End}-to-{End} {Deep} {Neural} {Network} for {Automatic}
+  {Learning} in {Chess}.
+\newblock In A.~E. Villa, P.~Masulli, and A.~J. Pons~Rivero, editors, {\em
+  Artificial {Neural} {Networks} and {Machine} {Learning} – {ICANN} 2016},
+  Lecture {Notes} in {Computer} {Science}, pages 88--96, Cham, 2016. Springer
+  International Publishing.
+
+\bibitem{harris_chapter_2010}
+M.~Harris, S.~Sengupta, M.~Garland, et~al.
+\newblock Chapter 39. {Parallel} {Prefix} {Sum} ({Scan}) with {CUDA}, 2010.
+
+\bibitem{james_integrating_2018}
+S.~S. James, C.~Papapavlou, A.~Blenkinsop, et~al.
+\newblock {\em Frontiers in Neuroscience}, 12, 2018.
+
+\bibitem{mnih_playing_2013}
+V.~Mnih, K.~Kavukcuoglu, D.~Silver, et~al.
+\newblock {\em arXiv:1312.5602 [cs]}, Dec. 2013.
+\newblock arXiv: 1312.5602.
+
+\bibitem{nageswaran_configurable_2009}
+J.~M. Nageswaran, N.~Dutt, J.~L. Krichmar, et~al.
+\newblock {\em Neural Networks}, 22(5):791--800, July 2009.
+
+\bibitem{silver_general_2018}
+D.~Silver, T.~Hubert, J.~Schrittwieser, et~al.
+\newblock {\em Science}, 362(6419):1140--1144, Dec. 2018.
+\newblock Publisher: American Association for the Advancement of Science
+  Section: Report.
+
+\bibitem{stimberg_brian2genn_2020}
+M.~Stimberg, D.~F.~M. Goodman, and T.~Nowotny.
+\newblock {\em Scientific Reports}, 10(1):410, Jan. 2020.
+\newblock Number: 1 Publisher: Nature Publishing Group.
+
+\bibitem{thrun_learning_1995}
+S.~Thrun.
+\newblock {\em Advances in neural information processing systems.}, pages
+  1069--1076, 1995.
+
+\bibitem{yavuz_genn_2016}
+E.~Yavuz, J.~Turner, and T.~Nowotny.
+\newblock {\em Scientific Reports}, 6(1):18854, Jan. 2016.
+\newblock Number: 1 Publisher: Nature Publishing Group.
+
+\end{thebibliography}
